@@ -5,7 +5,7 @@
  *
  */
 
-$host       = "10.157.194.91";
+$host       = "10.157.194.41";
 $username   = "root";
 $password   = "123";
 $dbname     = "test";
